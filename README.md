@@ -41,5 +41,5 @@ The **Electricity Bill Calculation System (`one.py`)** is a Python-based applica
 2. Open your terminal or command prompt in the project folder.
 3. Run the Python file:
    ```bash
-   python one.py
+  
    https://github.com/SATYAPRAKASHSETHY
