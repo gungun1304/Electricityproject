@@ -36,10 +36,5 @@ The **Electricity Bill Calculation System (`one.py`)** is a Python-based applica
 * **Tax & Fixed Charges:** Adds meter rent and applicable duty/tax automatically.
 * **Clean Bill Summary:** Prints a formatted, easy-to-read receipt on the console.
 
-### ▶️ How to Run
-1. Download or clone this repository.
-2. Open your terminal or command prompt in the project folder.
-3. Run the Python file:
-   ```bash
   
    https://github.com/SATYAPRAKASHSETHY
